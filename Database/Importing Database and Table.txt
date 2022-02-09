@@ -1,0 +1,10 @@
+IMPORTING DATABASE IN SQL SERVER MANAGEMENT STUDIO 2014
+
+Right click "Database" and select
+"Import Data Tier Application"
+
+Click "Next" and Browse for the BACPAC File
+Assign Any New Name if you want or leave it as it is "library1"
+Click "Finish"
+
+by Muhammad Taha 13816
